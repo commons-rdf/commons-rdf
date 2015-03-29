@@ -1,3 +1,5 @@
+**this project has been moved to http://commonsrdf.incubator.apache.org**
+
 # Commons RDF
 
 Working repository for experimenting with idea of providing a common library for [RDF 1.1](http://www.w3.org/TR/rdf11-concepts/) that could be implemented by the upcoming versions of the main Java toolkits ([Jena](http://jena.apache.org) 3.0 and [Sesame](http://rdf4j.org/) 4.0) as well as wrappers for other JVM languages ([Banana RDF](https://github.com/w3c/banana-rdf) and so on).
