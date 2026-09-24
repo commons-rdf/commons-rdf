@@ -1,4 +1,4 @@
-**this project has been moved to http://commonsrdf.incubator.apache.org**
+**this project has been moved to https://commons.apache.org/proper/commons-rdf/**
 
 # Commons RDF
 
